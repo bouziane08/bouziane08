@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Bouziane Mokhtar
 
-<!--
-**bouziane08/bouziane08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** specialized in:
+- ⚛️ Frontend: Next.js, React, TailwindCSS  
+- 🧠 Backend: NestJS, Node.js, Prisma, PostgreSQL  
+- ☁️ DevOps: Docker, Render, Vercel  
 
-Here are some ideas to get you started:
+🚀 **Projects**
+- 🏪 [E-commerce App](https://your-live-demo-link.com) — Full stack store with NestJS & Next.js  
+- 📊 [Dashboard App](https://github.com/bouziane08/dashboard-app) — Admin panel with authentication & charts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact Me**
+- 📧 Email: bouzianemokhtar999@gmail.com  
+- 🐙 GitHub: [@bouziane08](https://github.com/bouziane08)
